@@ -24,10 +24,12 @@
 
 Initially, the calculator have some default values:
 
-<img src="./Screenshots/ss1.png" />
+![WhatsApp Image 2024-01-29 at 23 42 22_0ed23b14](https://github.com/subash-ghub/Loan-Calculator/assets/104593776/8262218d-1ec9-412a-868f-e2861a1faaa5)
+
 
 After entering the values, UI looks like:
 
-<img src="./Screenshots/ss2.png" />
+<img width="960" alt="ss2" src="https://github.com/subash-ghub/Loan-Calculator/assets/104593776/5fe89b0d-c1c7-4456-a7f9-799a3f22a2f2">
+
 
 
