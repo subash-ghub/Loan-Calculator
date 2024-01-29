@@ -20,7 +20,7 @@
 - Run the index.html file
 - Start Calculating!
 
-## Screenshots
+## IMAGES
 
 Initially, the calculator have some default values:
 
